@@ -1,0 +1,19 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-06-27 09:32:00.636 UTC</timestamp>
+  <md5sum>31e518398622551c4225f35f3b7dbeb4</md5sum>
+  <fileName>Credential id=53c8deaf-c76f-4ab4-8425-d94248fefc5b name=angkrz89/******</fileName>
+  <usages>
+    <entry>
+      <string>1</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet plugin="credentials@2.5">
+      <timestamp>1624786320613</timestamp>
+      <itemFullName>1</itemFullName>
+      <timestamp0>1624786320613</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.ItemCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>
